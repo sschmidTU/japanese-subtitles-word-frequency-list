@@ -3,6 +3,9 @@ A word frequency and kanji frequency list derived from subtitles from Japanese d
 
 The data set was comprised of 12,277 subtitle files taken from https://github.com/Matchoo95/JP-Subtitles. The frequeny lists were generated with JParser and cb's Japanese Text Analysis Tool.
 
+[mostly anime/JDrama - sschmidtu
+this fork just serves to preserve the data in case the original repo goes down]
+
 ## Format of Word Frequency Report:
 - Field 1: Number of times word was encountered
 - Field 2: Word
